@@ -1027,6 +1027,18 @@ h4 {
         height: 320px;
     }
 }
+.auteur-citation-text
+{
+    font-size: 15px;
+}
+.text-center 
+{
+    font-size: 13px;
+}
+.text-nous-travaillons
+{
+    font-size: 23px;
+}
 
 @media (max-width: 400px) {
     .bloc {
