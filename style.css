@@ -119,22 +119,6 @@ a:hover {
     border-color: rgba(255, 255, 255, .2);
 }
 
-.d-bloc .a-btn,
-.d-bloc .navbar a,
-.d-bloc .navbar-brand,
-.d-bloc a .icon-sm,
-.d-bloc a .icon-md,
-.d-bloc a .icon-lg,
-.d-bloc a .icon-xl,
-.d-bloc h1 a,
-.d-bloc h2 a,
-.d-bloc h3 a,
-.d-bloc h4 a,
-.d-bloc h5 a,
-.d-bloc h6 a,
-.d-bloc p a {
-    color: rgba(255, 255, 255, .6);
-}
 
 .d-bloc .a-btn:hover,
 .d-bloc .navbar a:hover,
@@ -735,9 +719,7 @@ h4 {
     margin-top: 24px;
 }
 
-.white {
-    color: #FFFFFF!important;
-}
+
 
 .portfolio-thumb {
     margin-bottom: 24px;
@@ -775,11 +757,11 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: rgb(34, 33, 33);
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: rgb(34, 33, 33);
     color: #FFFFFF!important;
 }
 
@@ -788,9 +770,7 @@ h4 {
     color: #FFFFFF!important;
 }
 
-.ltc-white {
-    color: #FFFFFF!important;
-}
+
 
 .ltc-white:hover {
     color: #cccccc!important;
@@ -824,6 +804,57 @@ h4 {
 .bg-presentation {
     background-image: url("img/image-de-presentation\ \(1\).jpg");
 }
+.phrase-footer
+{
+    color: rgb(34, 33, 33);
+    display: flex;
+    font-size: 15px;
+    justify-content: center;
+}
+.background-bloc5
+{
+    justify-content: center;
+    background-color: #F3976C;
+    width: 70%;
+    margin-left: 15%;
+    display: flex;
+}
+.col-sm-12
+{
+    background-color: #F3976C;
+}
+.col-sm-12-blanc
+{
+    background:white;
+    margin-left: 22%;
+}
+.col-sm-12-transpa
+{
+    background: transparent;
+    margin-left: 22%;
+}
+.col-sm-12-page2
+{
+    background: transparent;
+}
+.text-center-page2
+{
+    font-size: 40px;
+    display: flex;
+    margin-top: 1px;
+    font-weight: bold;
+    margin-left: 30%;
+    justify-content: center;
+}
+.text-center-page2-dessou
+{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1px;
+    margin-left: 30%;
+}
+
 
 @media (max-width: 1024px) {
     .bloc {
@@ -1034,6 +1065,7 @@ h4 {
 .text-center 
 {
     font-size: 13px;
+    font-weight: bold;
 }
 .text-nous-travaillons
 {
