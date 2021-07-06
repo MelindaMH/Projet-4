@@ -635,7 +635,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #292727!important;
 }
 
 .container {
@@ -661,7 +661,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 15px;
 }
 
 .tight-width-whitespace {
@@ -843,7 +843,7 @@ h4 {
     display: flex;
     margin-top: 1px;
     font-weight: bold;
-    margin-left: 30%;
+   margin-left: 10%;
     justify-content: center;
 }
 .text-center-page2-dessou
@@ -852,7 +852,7 @@ h4 {
     display: flex;
     justify-content: center;
     margin-bottom: 1px;
-    margin-left: 30%;
+   margin-left: 10%;
 }
 
 
